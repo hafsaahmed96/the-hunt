@@ -1,0 +1,6 @@
+sceneSetups:
+- path: Assets/Game Kit Controller/Scenes/Local Multiplayer Scenes/Mansion Demo (Top
+    Down) 4 Players.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
